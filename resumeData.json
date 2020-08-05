@@ -1,0 +1,150 @@
+{
+  "main": {
+    "name":"Ravi Rathore",
+    "description":"I'm a Sofware developer based in Melbourne. Focused on maintainable and well-structured code",
+    "image":"profilepic.jpg",
+    "bio":"I’m a Software Developer with a Master’s degree in Information Technology and hands-on experienced using ReactJs and .NET to create and implement web applications. Well-versed in numerous programming languages including JavaScript, C# and SQL.",
+    "contactmessage":"If you’d like to get in touch, email me",
+    "email": "ravirathore15@icloud.com",
+    "phone": "+61-0406052334",
+    "github":"https://github.com/rpsr15",
+    "project":"https://www.linkedin.com/in/ravirathore/",
+    "address":{
+      "street":"",
+      "city":"Melbourne",
+      "state":"Victoria",
+      "zip": "3171"
+    },
+    "website": "http://www.ravirathore.me",
+    "resumedownload":"https://docdro.id/rWk2Izf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/rathoreravi15",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/rpsr15",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/ravirathore/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/rpsr15",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"La Trobe University, Melbourne",
+        "degree":"Masters of Information Technology",
+        "graduated":"October 2019",
+        "description":"Graduate courses in Web application development and Computational Intelligence \n; Weighted Average Marks: 88%  "
+      },
+      {
+        "school":"",
+        "degree":"B.S in Computer Science",
+        "graduated":"2014",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"MVP Studio, Melbourne",
+        "title":"Software Developer Intern",
+        "years":"February 2020 - Current",
+        "description":"Design, develop and test ReactJS, HTML5, CSS3, Bootstrap, JavaScript, jQuery and Entity Framework Core that meets accessibility and web browser standards for website.;Updated existing projects to correct errors, add features and improve performance;Wrote Readable, well-structured code in a team environment;Participated in processes of analysis of requirements, coding of programs and integration services.;Knowledge of WCF, SQL Server, SOAP, Rest, ASP. Net MVC"
+      },
+      {
+        "company":"Bit Broker Labs(Remote)",
+        "title":"Web Developer Intern",
+        "years":"August 2019 - August 2016",
+        "description":"Assisted in the development of maintainable and tested codes in JavaScript languages ; Conducted business meetings for the gathering of requirements and preparation of designs for customers ; Participated in all phases of significant projects in coordination with senior management and staff."
+      },
+      {
+        "company":"HCL Technologies",
+        "title":"Software Engineer",
+        "years":"August 2014 - August 2016",
+        "description":"Designed, tested, and documented modules;\n Automated manual process which increased the efficiency of the team by 18%;\n Conducted daily meetings and provided the update to the management"
+      }
+    ],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"90%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+     
+      
+      {
+        "name":"HTML/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"C#",
+        "level":"80%"
+      },
+      {
+        "name":".Net",
+        "level":"80%"
+      },
+      {
+        "name":"JAVA",
+        "level":"80%"
+      } ,{
+        "name":"Angular2+",
+        "level":"70%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Smirkspace",
+        "category":"(MVP Only) A React and Meteor based chat University project.",
+        "image":"smirkspace.jpg",
+        "url":"http://www.smirkspace.com"
+      }
+    ]
+  }
+}
