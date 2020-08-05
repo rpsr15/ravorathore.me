@@ -1,10 +1,10 @@
 {
   "name": "personalportfolio",
   "version": "0.1.0",
-  "homepage": "http://rpsr15.github.io/ravorathore.me",
   "private": true,
   "dependencies": {
     "anix": "^0.3.3",
+    "heroku": "^7.42.6",
     "jquery": "^3.2.1",
     "particles-bg": "^2.3.12",
     "react": "^16.2.0",
@@ -14,8 +14,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
