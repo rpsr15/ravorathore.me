@@ -115,35 +115,30 @@
   },
   "portfolio":{
     "projects": [
+      
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"OzFooty",
+        "category":"Application to track live score of Australian Football. We can view live ladder rankings, news and past matches. We can also pitches team to see wining predicton of upcoming match.",
+        "image":["ozfooty-project.png","onfooty2.png"],
+        "url":"https://ice-afl.herokuapp.com/"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"GoClean",
+        "category":"Smart bin management application deployed at LaTrobe University. It tracks the bin capacity and notify the user",
+        "image":["smartbin-project.png","smartwaste2.png","smartwaste3.png","smartwaste4.png","smartwaste5.png"],
+        "url":"https://stark-river-40586.herokuapp.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Teamx",
+        "category":"Teamex website is made on ReactJs. It has landing page and a cart functionality fully working on client web browser. User can view products and make payments.",
+        "image":["teamx1.png","teamx2.png","teamx3.png"],
+        "url":"https://stark-river-40586.herokuapp.com/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"WoofiePie",
+        "category":"It is easier to find a partner for your dog. Just create a profile. Find buddies for your dog within 5000 meters of your location. Chat with owner to arrange a meet up.",
+        "image":["woofie1.png","woofie2.png"],
+        "url":"https://stark-river-40586.herokuapp.com/"
       }
     ]
   }
